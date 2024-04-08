@@ -1,13 +1,13 @@
 
 
-# WordleOSS
-WordleOSS
+# WurdleOSS
+WurdleOSS
 
-https://avipars.github.io/WordleOSS/index.html?utm_source=ghr
+[Wurdle - the OG  and classic daily word game
+](https://avi.is-a.dev/WordleOSS/index.html?utm_medium=redirect)
 
-Wurdle - the OG  and classic daily word game
 
-Support us 
+Support me
 
 https://sales.aviparshan.com/p/referral-links-and-cashback-sites.html?utm_source=github
 
